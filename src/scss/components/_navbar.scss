@@ -5,10 +5,11 @@
 #mainNav {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: $white;
+    background-color: #16161A;
 
     .navbar-brand {
         font-family: $alt-font-family;
+        color: $white;
 
         &:hover,
         &:active {
@@ -19,15 +20,15 @@
     .navbar-toggler {
         font-size: $font-size-sm;
         padding: 0.75rem 1rem;
-        color: $gray-900;
+        color:  $white;
     }
 
     .navbar-nav {
         .nav-item {
             .nav-link {
-                color: $gray-900;
+                color: $white;
                 &:hover {
-                    color: $gray-600;
+                    color: $primary;
                 }
                 &.active {
                     color: $primary;

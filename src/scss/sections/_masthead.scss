@@ -2,10 +2,28 @@
 // Masthead
 // 
 
+html, body {
+    overflow-x: hidden;
+}
+
+.lh-1 {
+    color: $white;
+}
+
+p.lead.fw-normal.text-muted.mb-5 {
+    color: #dae0fc !important;
+}
+
+@include media-breakpoint-up(sm) {
+    h1.display-1.lh-1.mb-3 {
+        font-size: 3rem;
+    }
+}
+
 .masthead {
-    background-color: $gray-100;
+    background-color: #1D1D21;
     // Set top padding to 5rem plus the height of the fixed navbar
-    padding-top: 5rem + 4.5rem;
+    padding-top: 5rem + 2rem;
     padding-bottom: 5rem;
 
     // Styling for the iPhone X mockup in the masthead
