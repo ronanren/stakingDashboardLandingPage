@@ -11556,6 +11556,27 @@ p.lead.fw-normal.text-muted.mb-5 {
     font-size: 3rem;
   }
 }
+.devicemac {
+  max-width: 40vw;
+  height: 100%;
+  z-index: 999;
+}
+@media only screen and (max-width: 768px) {
+  .devicemac {
+    max-width: 90vw;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .features-device-mockup .device-wrapper {
+    max-width: 90vw;
+  }
+}
+
+.textheader {
+  color: #dae0fc !important;
+}
+
 .masthead {
   background-color: #1D1D21;
   padding-top: 7rem;

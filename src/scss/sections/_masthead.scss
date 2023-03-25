@@ -20,6 +20,26 @@ p.lead.fw-normal.text-muted.mb-5 {
     }
 }
 
+.devicemac {
+    max-width: 40vw;
+    height: 100%;
+    z-index: 999;
+  
+    @media only screen and (max-width: 768px) {
+      max-width: 90vw;
+    }
+}
+
+.features-device-mockup .device-wrapper {
+    @media only screen and (max-width: 768px) {
+        max-width: 90vw;
+    }
+}
+
+.textheader {
+    color: #dae0fc !important;
+}
+
 .masthead {
     background-color: #1D1D21;
     // Set top padding to 5rem plus the height of the fixed navbar
