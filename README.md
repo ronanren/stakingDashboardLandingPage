@@ -22,14 +22,12 @@ Dashboard app with Flutter that allows you to keep track of your different crypt
 
 ### ✨ Features
 
-- [x] Create account with mail/password
-- [x] Login with mail/password
-- [ ] Forgot password
 - [x] Add wallet
 - [x] Delete wallet
+- [ ] Add raw data per crypto
 - [x] Display wallet data
 - [x] Display blockchain data
-- [ ] Display blockchain chart
+- [x] Display staking chart
 
 ### 📸 Screenshots
 
