@@ -20,12 +20,19 @@ Link of the Android application: [Staking Dashboard App](https://play.google.com
 
 ### 📸 Screenshots
 
-Mobile dashboard :
+#### Mobile dashboard:
 
 <img src="https://raw.githubusercontent.com/ronanren/stakingDashboardLandingPage/master/src/assets/img/dashboardMobile.jpg?token=GHSAT0AAAAAAB35CIYY2F2DG27YG7TNKTWWZBJVQCQ" width="200px">
 
-Desktop dashboard :
-<img src="https://raw.githubusercontent.com/ronanren/stakingDashboardLandingPage/master/src/assets/img/dashboardDesktop.png?token=GHSAT0AAAAAAB35CIYYQEQHEFLFEQF7JNKSZBJVRBQ" width="1000px">
+#### Desktop dashboard:
+
+<img src="https://raw.githubusercontent.com/ronanren/stakingDashboardLandingPage/master/src/assets/img/dashboardDesktop.png?token=GHSAT0AAAAAAB35CIYYQEQHEFLFEQF7JNKSZBJVRBQ" width="1200px">
+
+#### Landing page: 
+
+<img src="https://raw.githubusercontent.com/ronanren/stakingDashboardLandingPage/master/img/screenshot1-landingpage.png?token=GHSAT0AAAAAAB35CIYYQEQHEFLFEQF7JNKSZBJVRBQ" width="1000px">
+
+<img src="https://raw.githubusercontent.com/ronanren/stakingDashboardLandingPage/master/img/screenshot2-landingpage.png?token=GHSAT0AAAAAAB35CIYYQEQHEFLFEQF7JNKSZBJVRBQ" width="1000px">
 
 ## Development
 
