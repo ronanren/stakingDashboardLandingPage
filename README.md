@@ -37,3 +37,9 @@ Mobile dashboard :
 
 Desktop dashboard :
 <img src="https://raw.githubusercontent.com/ronanren/stakingDashboardLandingPage/master/src/assets/img/dashboardDesktop.png?token=GHSAT0AAAAAAB35CIYYQEQHEFLFEQF7JNKSZBJVRBQ" width="1000px">
+
+Landing page :
+
+<img src="https://raw.githubusercontent.com/ronanren/stakingDashboardLandingPage/master/img/screenshot1-landingpage.png?token=GHSAT0AAAAAAB35CIYYQEQHEFLFEQF7JNKSZBJVRBQ" width="1000px">
+
+<img src="https://raw.githubusercontent.com/ronanren/stakingDashboardLandingPage/master/img/screenshot2-landingpage.png?token=GHSAT0AAAAAAB35CIYYQEQHEFLFEQF7JNKSZBJVRBQ" width="1000px">
