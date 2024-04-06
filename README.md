@@ -8,13 +8,12 @@ Link of the Android application: [Staking Dashboard App](https://play.google.com
 
 ### ✨ Features
 
+- [x] Save data in local storage (Hive)
 - [x] Add wallet
 - [x] Delete wallet
 - [x] Display wallet data
 - [x] Display blockchain data
-- [x] Display staking chart
-- [ ] Add raw data per crypto
-- [ ] Add bookmarks to save staking website link
+- [x] Display blockchain chart
 
 ### 📸 Screenshots
 
