@@ -1,7 +1,5 @@
 # stakingDashboard (landing page)
 
-The landing page is available here: [stakingdashboard.network](https://stakingdashboard.network/)
-
 ## Staking Dashboard Application
 
 Dashboard app with Flutter that allows you to keep track of your different crypto staking wallets. **This app isn't yet open source.**
